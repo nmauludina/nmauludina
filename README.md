@@ -4,13 +4,6 @@ Nothing more, just a unique person living in her own world.
 INTJ and love how I love myself. 
 Learn, learn, re-learn.
 
-## Badge 🏅
-[![image](https://www.codewars.com/users/nmauludina/badges/large)](https://www.codewars.com/users/nmauludina)
-
-## Stats 📊
-[![Billa's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmauludina&theme=dark)](https://github.com/nmauludina/)
-[![Billa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmauludina&show_icons=true&theme=dark&icon_color=f68900&title_color=f68900)](https://github.com/nmauludina/)
-
 ## About Me 💁‍♀️
 - 😶‍🌫️ Thinker Mankind
 - 🎓 Associate of Computer Science
@@ -18,6 +11,13 @@ Learn, learn, re-learn.
 - 🎧 Pop-Indie, Swing songs
 - 👩‍💻 Currently learning ReactJS, VueJS in depth
 - 👀 In looking for a job 
+
+## Badge 🏅
+[![image](https://www.codewars.com/users/nmauludina/badges/large)](https://www.codewars.com/users/nmauludina)
+
+## Stats 📊
+[![Billa's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmauludina&theme=dark)](https://github.com/nmauludina/)
+[![Billa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmauludina&show_icons=true&theme=dark&icon_color=f68900&title_color=f68900)](https://github.com/nmauludina/)
 
 [![Billa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmauludina&layout=compact)](https://github.com/nmauludina/)
 
