@@ -11,7 +11,7 @@ Learn, learn, re-learn.
 - 🎓 Associate of Computer Science
 - 🇮🇩 Indonesia Nationality
 - 🎧 Pop-Indie, Swing songs
-- 👀 Open for job [![Contact me](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282386497223)
+- 👀 Open for job, [get in touch with me](https://t.me/nmauludina)
 
 ## 🛠️ Language & Tools
 
