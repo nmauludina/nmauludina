@@ -6,12 +6,12 @@ Learn, learn, re-learn.
 
 ## ✨ About Me
 
+- 👩‍💻 I code Websites
 - 😶‍🌫️ Thinker Mankind
 - 🎓 Associate of Computer Science
 - 🇮🇩 Indonesia Nationality
 - 🎧 Pop-Indie, Swing songs
-- 👩‍💻 Currently learning ReactJS, VueJS in depth
-- 👀 In looking for a job
+- 👀 Open for job [![Contact me](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282386497223)
 
 ## 🛠️ Language & Tools
 
